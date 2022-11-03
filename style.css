@@ -16,3 +16,9 @@ footer{
 li{
     color: #045b0fb9;
 }
+main {
+    background-color: #e6bfbf;
+}
+.img {
+    display: block;
+}
